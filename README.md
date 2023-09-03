@@ -6,7 +6,7 @@
 Building a Modern Computer From First Principles - [Nand2Tetris](https://www.nand2tetris.org)
 
 ## Book
-[The Elements of Computer Systems](https://www.nand2tetris.org/book)
+[The Elements of Computing Systems](https://www.nand2tetris.org/book)
 
 ## Contents
 
