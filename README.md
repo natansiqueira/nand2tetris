@@ -10,6 +10,7 @@ Building a Modern Computer From First Principles - [Nand2Tetris](https://www.nan
 
 ## Contents
 
+- [Setup Guide](pdf/Setup-Guide-MacOs.pdf)
 - [Intro](pdf/Intro.pdf)
 - [Boolean Logic](pdf/Boolean-Logic.pdf)
 
