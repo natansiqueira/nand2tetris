@@ -6,4 +6,4 @@ help: # Show help for each of the Makefile recipes.
 
 .PHONY: hdl
 hdl: # Runs the hdl simulator 
-	./tools/HardwareSimulator.sh
+	~/Repos/nand2tetris/tools/HardwareSimulator.sh
